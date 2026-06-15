@@ -1,3 +1,3 @@
 # proyecto-logros
 
-- hola prueba Pull Shark logro
+- prueba Pull Shark logro
